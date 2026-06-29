@@ -60,6 +60,14 @@ img {
   border: 1px solid #d1d5db;
   border-radius: 999px;
   background: #ffffff;
+  display: flex;
+  align-items: center;
+  height: 50px;
+}
+
+.brand img {
+  height: 40px;
+  width: auto;
 }
 
 .site-nav {
